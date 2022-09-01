@@ -1,0 +1,1 @@
+import{e as o,o as s,a as n,f as c,w as _,h as e,i as a}from"./entry.7918b5a8.mjs";const r={},d={id:"appsss"},i=e(" test "),f=e(" fff ");function l(p,h){const t=a;return s(),n("div",d,[i,c(t,{placeholder:"loading..."},{default:_(()=>[f]),_:1})])}const x=o(r,[["render",l]]);export{x as default};

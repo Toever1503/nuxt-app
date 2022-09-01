@@ -11,6 +11,9 @@
     "nuxt": "3.0.0-rc.8"
   },
   "dependencies": {
-    "ant-design-vue": "^3.2.11"
+    "@ant-design/icons-vue": "^6.1.0",
+    "ant-design-vue": "^3.2.11",
+    "vue": "^3.2.38",
+    "webpack": "^5.74.0"
   }
 }

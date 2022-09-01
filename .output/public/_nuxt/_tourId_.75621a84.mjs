@@ -1,0 +1,1 @@
+import{b as e,o,a as s,t as a,u as r}from"./entry.7918b5a8.mjs";const u={id:"tour page"},i={__name:"[tourId]",setup(n){const t=e();return(c,p)=>(o(),s("div",u,"this is tour page "+a(r(t).params),1))}};export{i as default};

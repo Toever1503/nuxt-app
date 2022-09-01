@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="47279fd1-f1dc-4085-bbd7-275e63bab670" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/tailwind.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/table.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/ant-ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/ant-variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Footers.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Headers.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SearchBox.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SearchBoxAutoComplete.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/search.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/tailwind.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/tailwind.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/editor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/editor.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/QuillEditor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/antd-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/ant-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/ant-ui.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,15 +40,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/Vue learning/nuxt-app/assets",
+    "last_opened_file_path": "C:/Users/orisu/Desktop/DATN 2022/web/HocPTE WEB/components",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true",
     "vuejs.nuxt.types-notification-shown": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\orisu\Desktop\DATN 2022\web\HocPTE WEB\components" />
       <recent name="F:\Vue learning\nuxt-app\assets" />
       <recent name="F:\Vue learning\nuxt-app" />
       <recent name="F:\Vue learning\nuxt-app\pages" />
@@ -67,6 +75,8 @@
       <workItem from="1661141131122" duration="1098000" />
       <workItem from="1661151282309" duration="1635000" />
       <workItem from="1661153724351" duration="1252000" />
+      <workItem from="1661964572503" duration="8892000" />
+      <workItem from="1662045493661" duration="5264000" />
     </task>
     <servers />
   </component>
